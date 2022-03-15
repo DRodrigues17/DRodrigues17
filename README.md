@@ -1,4 +1,4 @@
-## Olá sou Daniel, estudo programação e a principio tento fazer de tudo, backend, frontend e web. Caso você se interesse por meu trabalho, veja alguns de meus repositórios e se algo te interessar, é só entrar em contato que eu respondo assim que possivel. 
+## Olá sou Daniel, estudo programação e a principio tento fazer tanto back quanto frontend. Caso você veja alguns de meus repositórios e se interessar por meu trabalho, é só entrar em contato que eu respondo assim que possivel. 
 <div align="center" >
   <a href="https://github.com/Drodrigues17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRodrigues17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,11 +11,9 @@
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 </div>
   
   ##
