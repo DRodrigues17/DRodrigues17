@@ -1,4 +1,3 @@
-## Olá sou Daniel, estudo programação e a principio tento fazer tanto back quanto frontend. Caso você veja alguns de meus repositórios e se interessar por meu trabalho, é só entrar em contato que eu respondo assim que possivel. 
 <div align="center" >
   <a href="https://github.com/Drodrigues17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRodrigues17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -9,7 +8,7 @@
   
 <div style="display: inline_block"><br>
   
-  ## Linguagens que tenho alguma experiência
+  ## Linguagens e frameworks que tenho alguma experiência
   
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
