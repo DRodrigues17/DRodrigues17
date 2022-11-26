@@ -26,7 +26,6 @@
   
   ## Contate-me
   
-  <a href = "mailto:adanielluiz71@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/daniel-rodrigues-999878227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
   <a href="https://gitlab.com/DRodrigues17"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"  target="blank"></a>
 <div> 
