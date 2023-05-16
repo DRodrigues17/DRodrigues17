@@ -22,10 +22,7 @@
   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   
-  ## Contate-me
-  
-  <a href="https://www.linkedin.com/in/daniel-rodrigues-999878227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
-  <a href="https://gitlab.com/DRodrigues17"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"  target="blank"></a>
+
 <div> 
  
   ![Snake animation](https://github.com/Drodrigues17/Drodrigues17/blob/output/github-contribution-grid-snake.svg)
